@@ -56,7 +56,7 @@ profesionales. La posibilidad de escalar el sistema y añadir nuevas funciones a
 relevancia a largo plazo, tanto en el ámbito educativo como en el profesional.
 
 
-![alt text]([https://github.com/Pablo931597/Master-UC3m/blob/main/Captura%20de%20pantalla%202025-06-18%20a%20las%2012.33.03.png](https://github.com/Pablo931597/Design-and-Implementation-of-a-Multichannel-Recording-and-Playback-Device-Based-on-Raspberry-Pi/blob/main/Captura%20de%20pantalla%202025-09-13%20a%20las%2020.15.10.png))
+![alt text](https://github.com/Pablo931597/Master-UC3m/blob/main/Captura%20de%20pantalla%202025-06-18%20a%20las%2012.33.03.png)
 ![alt text](https://github.com/Pablo931597/Master-UC3m/blob/main/Captura%20de%20pantalla%202025-09-13%20a%20las%2020.15.37.png)
 ![alt text](https://github.com/Pablo931597/Master-UC3m/blob/main/Captura%20de%20pantalla%202025-09-13%20a%20las%2020.15.52.png)
 ![alt text](https://github.com/Pablo931597/Master-UC3m/blob/main/Captura%20de%20pantalla%202025-09-13%20a%20las%2020.16.06.png)
