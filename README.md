@@ -54,3 +54,6 @@ de audio multicanal, sino que también establece una plataforma flexible y de ba
 que puede evolucionar para satisfacer distintas necesidades en entornos académicos y
 profesionales. La posibilidad de escalar el sistema y añadir nuevas funciones asegura su
 relevancia a largo plazo, tanto en el ámbito educativo como en el profesional.
+
+
+![alt text](https://github.com/Pablo931597/Master-UC3m/blob/main/[Captura%20de%20pantalla%202025-06-18%20a%20las%2012.33.03.png)
